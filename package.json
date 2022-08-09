@@ -12,5 +12,8 @@
     "url": "git@github.com-work:hoanglam1309a/Vietnamese-administration.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
