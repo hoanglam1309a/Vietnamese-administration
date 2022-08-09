@@ -1,0 +1,16 @@
+{
+  "name": "vietnamese-administration",
+  "version": "1.0.0",
+  "description": "Fake API dựa trên json-server để xây dựng chức năng lựa chọn địa điểm tại Việt Nam( Tỉnh/thành phố, quận/huyện, xã/phường ).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-work:hoanglam1309a/Vietnamese-administration.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
