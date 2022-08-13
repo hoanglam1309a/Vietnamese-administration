@@ -1,5 +1,5 @@
 {
-  "province": [
+  "city": [
     {
       "cityId": "01",
       "name": "Thành phố Hà Nội"
@@ -3780,7 +3780,7 @@
       "name": "Huyện Ngọc Hiển"
     }
   ],
-  "commune": [
+  "ward": [
     {
       "districtId": "001",
       "wardId": "00001",
