@@ -2,7 +2,7 @@
   "city": [
     {
       "cityId": "01",
-      "name": "TP Hà Nội"
+      "name": "TP. Hà Nội"
     },
     {
       "cityId": "03",
@@ -26,7 +26,7 @@
     },
     {
       "cityId": "08",
-      "name": "TP Hải Phòng"
+      "name": "TP. Hải Phòng"
     },
     {
       "cityId": "09",
@@ -126,7 +126,7 @@
     },
     {
       "cityId": "33",
-      "name": "TP Đà Nẵng"
+      "name": "TP. Đà Nẵng"
     },
     {
       "cityId": "34",
@@ -178,7 +178,7 @@
     },
     {
       "cityId": "46",
-      "name": "TP Hồ Chí Minh"
+      "name": "TP. Hồ Chí Minh"
     },
     {
       "cityId": "47",
@@ -222,7 +222,7 @@
     },
     {
       "cityId": "57",
-      "name": "TP Cần Thơ"
+      "name": "TP. Cần Thơ"
     },
     {
       "cityId": "58",
@@ -407,7 +407,7 @@
     {
       "cityId": "18",
       "districtId": "024",
-      "name": "TP Hà Giang"
+      "name": "TP. Hà Giang"
     },
     {
       "cityId": "18",
@@ -462,7 +462,7 @@
     {
       "cityId": "19",
       "districtId": "040",
-      "name": "TP Cao Bằng"
+      "name": "TP. Cao Bằng"
     },
     {
       "cityId": "19",
@@ -552,7 +552,7 @@
     {
       "cityId": "20",
       "districtId": "070",
-      "name": "TP Tuyên Quang"
+      "name": "TP. Tuyên Quang"
     },
     {
       "cityId": "20",
@@ -587,7 +587,7 @@
     {
       "cityId": "13",
       "districtId": "080",
-      "name": "TP Lào Cai"
+      "name": "TP. Lào Cai"
     },
     {
       "cityId": "13",
@@ -632,7 +632,7 @@
     {
       "cityId": "14",
       "districtId": "094",
-      "name": "TP Điện Biên Phủ"
+      "name": "TP. Điện Biên Phủ"
     },
     {
       "cityId": "14",
@@ -682,7 +682,7 @@
     {
       "cityId": "12",
       "districtId": "105",
-      "name": "TP Lai Châu"
+      "name": "TP. Lai Châu"
     },
     {
       "cityId": "12",
@@ -722,7 +722,7 @@
     {
       "cityId": "16",
       "districtId": "116",
-      "name": "TP Sơn La"
+      "name": "TP. Sơn La"
     },
     {
       "cityId": "16",
@@ -782,7 +782,7 @@
     {
       "cityId": "15",
       "districtId": "132",
-      "name": "TP Yên Bái"
+      "name": "TP. Yên Bái"
     },
     {
       "cityId": "15",
@@ -827,7 +827,7 @@
     {
       "cityId": "17",
       "districtId": "148",
-      "name": "TP Hòa Bình"
+      "name": "TP. Hòa Bình"
     },
     {
       "cityId": "17",
@@ -877,12 +877,12 @@
     {
       "cityId": "23",
       "districtId": "164",
-      "name": "TP Thái Nguyên"
+      "name": "TP. Thái Nguyên"
     },
     {
       "cityId": "23",
       "districtId": "165",
-      "name": "TP Sông Công"
+      "name": "TP. Sông Công"
     },
     {
       "cityId": "23",
@@ -912,7 +912,7 @@
     {
       "cityId": "23",
       "districtId": "172",
-      "name": "TP Phổ Yên"
+      "name": "TP. Phổ Yên"
     },
     {
       "cityId": "23",
@@ -922,7 +922,7 @@
     {
       "cityId": "22",
       "districtId": "178",
-      "name": "TP Lạng Sơn"
+      "name": "TP. Lạng Sơn"
     },
     {
       "cityId": "22",
@@ -977,22 +977,22 @@
     {
       "cityId": "25",
       "districtId": "193",
-      "name": "TP Hạ Long"
+      "name": "TP. Hạ Long"
     },
     {
       "cityId": "25",
       "districtId": "194",
-      "name": "TP Móng Cái"
+      "name": "TP. Móng Cái"
     },
     {
       "cityId": "25",
       "districtId": "195",
-      "name": "TP Cẩm Phả"
+      "name": "TP. Cẩm Phả"
     },
     {
       "cityId": "25",
       "districtId": "196",
-      "name": "TP Uông Bí"
+      "name": "TP. Uông Bí"
     },
     {
       "cityId": "25",
@@ -1042,7 +1042,7 @@
     {
       "cityId": "24",
       "districtId": "213",
-      "name": "TP Bắc Giang"
+      "name": "TP. Bắc Giang"
     },
     {
       "cityId": "24",
@@ -1092,7 +1092,7 @@
     {
       "cityId": "26",
       "districtId": "227",
-      "name": "TP Việt Trì"
+      "name": "TP. Việt Trì"
     },
     {
       "cityId": "26",
@@ -1157,12 +1157,12 @@
     {
       "cityId": "03",
       "districtId": "243",
-      "name": "TP Vĩnh Yên"
+      "name": "TP. Vĩnh Yên"
     },
     {
       "cityId": "03",
       "districtId": "244",
-      "name": "TP Phúc Yên"
+      "name": "TP. Phúc Yên"
     },
     {
       "cityId": "03",
@@ -1202,7 +1202,7 @@
     {
       "cityId": "04",
       "districtId": "256",
-      "name": "TP Bắc Ninh"
+      "name": "TP. Bắc Ninh"
     },
     {
       "cityId": "04",
@@ -1222,7 +1222,7 @@
     {
       "cityId": "04",
       "districtId": "261",
-      "name": "TP Từ Sơn"
+      "name": "TP. Từ Sơn"
     },
     {
       "cityId": "04",
@@ -1242,12 +1242,12 @@
     {
       "cityId": "07",
       "districtId": "288",
-      "name": "TP Hải Dương"
+      "name": "TP. Hải Dương"
     },
     {
       "cityId": "07",
       "districtId": "290",
-      "name": "TP Chí Linh"
+      "name": "TP. Chí Linh"
     },
     {
       "cityId": "07",
@@ -1377,7 +1377,7 @@
     {
       "cityId": "05",
       "districtId": "323",
-      "name": "TP Hưng Yên"
+      "name": "TP. Hưng Yên"
     },
     {
       "cityId": "05",
@@ -1427,7 +1427,7 @@
     {
       "cityId": "09",
       "districtId": "336",
-      "name": "TP Thái Bình"
+      "name": "TP. Thái Bình"
     },
     {
       "cityId": "09",
@@ -1467,7 +1467,7 @@
     {
       "cityId": "06",
       "districtId": "347",
-      "name": "TP Phủ Lý"
+      "name": "TP. Phủ Lý"
     },
     {
       "cityId": "06",
@@ -1497,7 +1497,7 @@
     {
       "cityId": "10",
       "districtId": "356",
-      "name": "TP Nam Định"
+      "name": "TP. Nam Định"
     },
     {
       "cityId": "10",
@@ -1547,12 +1547,12 @@
     {
       "cityId": "11",
       "districtId": "369",
-      "name": "TP Ninh Bình"
+      "name": "TP. Ninh Bình"
     },
     {
       "cityId": "11",
       "districtId": "370",
-      "name": "TP Tam Điệp"
+      "name": "TP. Tam Điệp"
     },
     {
       "cityId": "11",
@@ -1587,7 +1587,7 @@
     {
       "cityId": "27",
       "districtId": "380",
-      "name": "TP Thanh Hóa"
+      "name": "TP. Thanh Hóa"
     },
     {
       "cityId": "27",
@@ -1597,7 +1597,7 @@
     {
       "cityId": "27",
       "districtId": "382",
-      "name": "TP Sầm Sơn"
+      "name": "TP. Sầm Sơn"
     },
     {
       "cityId": "27",
@@ -1722,7 +1722,7 @@
     {
       "cityId": "28",
       "districtId": "412",
-      "name": "TP Vinh"
+      "name": "TP. Vinh"
     },
     {
       "cityId": "28",
@@ -1827,7 +1827,7 @@
     {
       "cityId": "29",
       "districtId": "436",
-      "name": "TP Hà Tĩnh"
+      "name": "TP. Hà Tĩnh"
     },
     {
       "cityId": "29",
@@ -1932,7 +1932,7 @@
     {
       "cityId": "31",
       "districtId": "461",
-      "name": "TP Đông Hà"
+      "name": "TP. Đông Hà"
     },
     {
       "cityId": "31",
@@ -1982,7 +1982,7 @@
     {
       "cityId": "32",
       "districtId": "474",
-      "name": "TP Huế"
+      "name": "TP. Huế"
     },
     {
       "cityId": "32",
@@ -2067,12 +2067,12 @@
     {
       "cityId": "34",
       "districtId": "502",
-      "name": "TP Tam Kỳ"
+      "name": "TP. Tam Kỳ"
     },
     {
       "cityId": "34",
       "districtId": "503",
-      "name": "TP Hội An"
+      "name": "TP. Hội An"
     },
     {
       "cityId": "34",
@@ -2157,7 +2157,7 @@
     {
       "cityId": "35",
       "districtId": "522",
-      "name": "TP Quảng Ngãi"
+      "name": "TP. Quảng Ngãi"
     },
     {
       "cityId": "35",
@@ -2222,7 +2222,7 @@
     {
       "cityId": "36",
       "districtId": "540",
-      "name": "TP Quy Nhơn"
+      "name": "TP. Quy Nhơn"
     },
     {
       "cityId": "36",
@@ -2277,7 +2277,7 @@
     {
       "cityId": "37",
       "districtId": "555",
-      "name": "TP Tuy Hoà"
+      "name": "TP. Tuy Hoà"
     },
     {
       "cityId": "37",
@@ -2322,12 +2322,12 @@
     {
       "cityId": "38",
       "districtId": "568",
-      "name": "TP Nha Trang"
+      "name": "TP. Nha Trang"
     },
     {
       "cityId": "38",
       "districtId": "569",
-      "name": "TP Cam Ranh"
+      "name": "TP. Cam Ranh"
     },
     {
       "cityId": "38",
@@ -2367,7 +2367,7 @@
     {
       "cityId": "39",
       "districtId": "582",
-      "name": "TP Phan Rang-Tháp Chàm"
+      "name": "TP. Phan Rang-Tháp Chàm"
     },
     {
       "cityId": "39",
@@ -2402,7 +2402,7 @@
     {
       "cityId": "40",
       "districtId": "593",
-      "name": "TP Phan Thiết"
+      "name": "TP. Phan Thiết"
     },
     {
       "cityId": "40",
@@ -2452,7 +2452,7 @@
     {
       "cityId": "42",
       "districtId": "608",
-      "name": "TP Kon Tum"
+      "name": "TP. Kon Tum"
     },
     {
       "cityId": "42",
@@ -2502,7 +2502,7 @@
     {
       "cityId": "41",
       "districtId": "622",
-      "name": "TP Pleiku"
+      "name": "TP. Pleiku"
     },
     {
       "cityId": "41",
@@ -2587,7 +2587,7 @@
     {
       "cityId": "43",
       "districtId": "643",
-      "name": "TP Buôn Ma Thuột"
+      "name": "TP. Buôn Ma Thuột"
     },
     {
       "cityId": "43",
@@ -2662,7 +2662,7 @@
     {
       "cityId": "45",
       "districtId": "660",
-      "name": "TP Gia Nghĩa"
+      "name": "TP. Gia Nghĩa"
     },
     {
       "cityId": "45",
@@ -2702,12 +2702,12 @@
     {
       "cityId": "44",
       "districtId": "672",
-      "name": "TP Đà Lạt"
+      "name": "TP. Đà Lạt"
     },
     {
       "cityId": "44",
       "districtId": "673",
-      "name": "TP Bảo Lộc"
+      "name": "TP. Bảo Lộc"
     },
     {
       "cityId": "44",
@@ -2767,7 +2767,7 @@
     {
       "cityId": "48",
       "districtId": "689",
-      "name": "TP Đồng Xoài"
+      "name": "TP. Đồng Xoài"
     },
     {
       "cityId": "48",
@@ -2817,7 +2817,7 @@
     {
       "cityId": "49",
       "districtId": "703",
-      "name": "TP Tây Ninh"
+      "name": "TP. Tây Ninh"
     },
     {
       "cityId": "49",
@@ -2862,7 +2862,7 @@
     {
       "cityId": "47",
       "districtId": "718",
-      "name": "TP Thủ Dầu Một"
+      "name": "TP. Thủ Dầu Một"
     },
     {
       "cityId": "47",
@@ -2892,12 +2892,12 @@
     {
       "cityId": "47",
       "districtId": "724",
-      "name": "TP Dĩ An"
+      "name": "TP. Dĩ An"
     },
     {
       "cityId": "47",
       "districtId": "725",
-      "name": "TP Thuận An"
+      "name": "TP. Thuận An"
     },
     {
       "cityId": "47",
@@ -2907,12 +2907,12 @@
     {
       "cityId": "50",
       "districtId": "731",
-      "name": "TP Biên Hòa"
+      "name": "TP. Biên Hòa"
     },
     {
       "cityId": "50",
       "districtId": "732",
-      "name": "TP Long Khánh"
+      "name": "TP. Long Khánh"
     },
     {
       "cityId": "50",
@@ -2962,12 +2962,12 @@
     {
       "cityId": "51",
       "districtId": "747",
-      "name": "TP Vũng Tàu"
+      "name": "TP. Vũng Tàu"
     },
     {
       "cityId": "51",
       "districtId": "748",
-      "name": "TP Bà Rịa"
+      "name": "TP. Bà Rịa"
     },
     {
       "cityId": "51",
@@ -3037,7 +3037,7 @@
     {
       "cityId": "46",
       "districtId": "769",
-      "name": "TP Thủ Đức"
+      "name": "TP. Thủ Đức"
     },
     {
       "cityId": "46",
@@ -3112,7 +3112,7 @@
     {
       "cityId": "52",
       "districtId": "794",
-      "name": "TP Tân An"
+      "name": "TP. Tân An"
     },
     {
       "cityId": "52",
@@ -3187,7 +3187,7 @@
     {
       "cityId": "54",
       "districtId": "815",
-      "name": "TP Mỹ Tho"
+      "name": "TP. Mỹ Tho"
     },
     {
       "cityId": "54",
@@ -3242,7 +3242,7 @@
     {
       "cityId": "55",
       "districtId": "829",
-      "name": "TP Bến Tre"
+      "name": "TP. Bến Tre"
     },
     {
       "cityId": "55",
@@ -3287,7 +3287,7 @@
     {
       "cityId": "59",
       "districtId": "842",
-      "name": "TP Trà Vinh"
+      "name": "TP. Trà Vinh"
     },
     {
       "cityId": "59",
@@ -3332,7 +3332,7 @@
     {
       "cityId": "58",
       "districtId": "855",
-      "name": "TP Vĩnh Long"
+      "name": "TP. Vĩnh Long"
     },
     {
       "cityId": "58",
@@ -3372,17 +3372,17 @@
     {
       "cityId": "53",
       "districtId": "866",
-      "name": "TP Cao Lãnh"
+      "name": "TP. Cao Lãnh"
     },
     {
       "cityId": "53",
       "districtId": "867",
-      "name": "TP Sa Đéc"
+      "name": "TP. Sa Đéc"
     },
     {
       "cityId": "53",
       "districtId": "868",
-      "name": "TP Hồng Ngự"
+      "name": "TP. Hồng Ngự"
     },
     {
       "cityId": "53",
@@ -3432,12 +3432,12 @@
     {
       "cityId": "56",
       "districtId": "883",
-      "name": "TP Long Xuyên"
+      "name": "TP. Long Xuyên"
     },
     {
       "cityId": "56",
       "districtId": "884",
-      "name": "TP Châu Đốc"
+      "name": "TP. Châu Đốc"
     },
     {
       "cityId": "56",
@@ -3487,12 +3487,12 @@
     {
       "cityId": "60",
       "districtId": "899",
-      "name": "TP Rạch Giá"
+      "name": "TP. Rạch Giá"
     },
     {
       "cityId": "60",
       "districtId": "900",
-      "name": "TP Hà Tiên"
+      "name": "TP. Hà Tiên"
     },
     {
       "cityId": "60",
@@ -3542,7 +3542,7 @@
     {
       "cityId": "60",
       "districtId": "911",
-      "name": "TP Phú Quốc"
+      "name": "TP. Phú Quốc"
     },
     {
       "cityId": "60",
@@ -3607,12 +3607,12 @@
     {
       "cityId": "61",
       "districtId": "930",
-      "name": "TP Vị Thanh"
+      "name": "TP. Vị Thanh"
     },
     {
       "cityId": "61",
       "districtId": "931",
-      "name": "TP Ngã Bảy"
+      "name": "TP. Ngã Bảy"
     },
     {
       "cityId": "61",
@@ -3647,7 +3647,7 @@
     {
       "cityId": "62",
       "districtId": "941",
-      "name": "TP Sóc Trăng"
+      "name": "TP. Sóc Trăng"
     },
     {
       "cityId": "62",
@@ -3702,7 +3702,7 @@
     {
       "cityId": "63",
       "districtId": "954",
-      "name": "TP Bạc Liêu"
+      "name": "TP. Bạc Liêu"
     },
     {
       "cityId": "63",
@@ -3737,7 +3737,7 @@
     {
       "cityId": "64",
       "districtId": "964",
-      "name": "TP Cà Mau"
+      "name": "TP. Cà Mau"
     },
     {
       "cityId": "64",
